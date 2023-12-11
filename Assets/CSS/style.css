@@ -1,0 +1,19 @@
+
+
+header {
+    text-align: center;
+    background-color: rgb(73, 73, 159);
+    padding: .5%;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.city-search {
+    height: 100px;
+    width: 300px;
+    border: 1cm;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
