@@ -17,8 +17,10 @@
 
         <div class="city-search">
             <h2>Search for a City:</h2>
-            <input type="text" id="city-input" placeholder="Type your city here...">
-            <button id="search-button">Search</button>
+            <form id="cityInput" method="POST">
+                <input type="text" id="city" placeholder="Type your city here...">
+                <button type="submit">Search</button>
+            </form>
 
             <form method="POST">
                 <h2>History:</h2>
@@ -85,9 +87,7 @@
 
 
 
-<script src="./Assets/js/script.js">
-    
-</script>
+<script src="./Assets/js/script.js"></script>
 
 </body>
 

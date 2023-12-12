@@ -32,3 +32,8 @@ function getCoordinates (cityName){
 }
 getCoordinates("New York")
 
+document.getElementById('cityInput').addEventListener('submit', function(){
+    var name = document.getElementById('city').value;
+    localStorage.setItem('city', name);
+});
+
