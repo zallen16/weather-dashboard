@@ -29,7 +29,6 @@ h2 {
     border-style: solid;
     border-color: black;
     display: inline-block;
-    float: right;
     margin: 10px;
     height: 50%;
     width: 70%;
@@ -44,7 +43,19 @@ h3 {
     font-size: 25px;
 }
 
+.five-day-forecast {
+    list-style: none;
+    display: inline ;
+    justify-content: center;
+}
+
+h4 {
+    font-size: 25px;
+}
+
 .box {
+    border-style: solid;
+    border-color: black;
     display: flex;
-    
+    padding: 10px;
 }
