@@ -6,4 +6,4 @@ Help for assignment was given by TAs in program and tutor Juan Delgado.
 
 Screenshot of application: ![Screen Shot 2023-12-12 at 12 34 51 AM](https://github.com/zallen16/weather-dashboard/assets/126983111/8bf0849c-6c60-41f6-998b-4dd30fcccaed)
 
-Link to deployed app:
+Link to deployed app: https://zallen16.github.io/weather-dashboard/
